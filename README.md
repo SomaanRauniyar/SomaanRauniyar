@@ -127,7 +127,6 @@ Hybrid diagnosis engine with interactive health dashboards for disease spread an
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/somaan-rauniyar-50ab2925a)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SomaanRauniyar)
-[![Email](somaanrauniyar@gmail.com)
 
 </div>
 
