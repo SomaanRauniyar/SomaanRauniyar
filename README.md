@@ -11,7 +11,7 @@
 ### 🚀 About Me
 
 - 🎓 **B.Tech in Artificial Intelligence** @ SRM Institute of Science & Technology (CGPA: 8.38)
-- 💼 **Data Science Intern** @ HDFC Life Insurance (Summer 2025)
+- 💼 ** Data Science Intern** @ HDFC Life Insurance (Summer 2025)
 - 🏆 **Top 10 Finalist** at The Great Bangalore Hackathon (TGBH) 2024
 - 🔬 Passionate about **AI/ML, Computer Vision & NLP**
 - 💡 Currently building innovative AI solutions that matter
@@ -66,7 +66,7 @@
 
 ## 🎯 Featured Projects
 
-### 🔍 [Datainsight Pro](https://github.com/SomaanRauniyar) - Business Analytics Platform
+### 🔍 [Datainsight Pro](https://frontend-latestversion2.onrender.com/) - Business Analytics Platform
 **FastAPI • Streamlit • RAG • Pinecone • Cohere**
 
 End-to-end analytics app with document ingestion (CSV/PDF), natural language Q&A using Groq, and interactive visualizations for small businesses.
@@ -127,7 +127,7 @@ Hybrid diagnosis engine with interactive health dashboards for disease spread an
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/somaan-rauniyar-50ab2925a)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SomaanRauniyar)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somaanrauniyar@gmail.com)
+[![Email](somaanrauniyar@gmail.com)
 
 </div>
 
